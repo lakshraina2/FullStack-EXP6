@@ -25,6 +25,11 @@ This React application demonstrates a comprehensive form with controlled compone
 
 All form inputs are controlled by React state using `useState`. When the form is submitted, all entered data is displayed in an alert dialog.
 
+## Screenshots
+<img width="550" height="370" alt="Screenshot 2026-02-20 110146" src="https://github.com/user-attachments/assets/391a4890-2541-405e-b4b3-659de7890993" />
+<img width="666" height="1079" alt="Screenshot 2026-02-20 110136" src="https://github.com/user-attachments/assets/216a01a0-e7a8-4b4b-8675-0e830073b234" />
+
+
 ## Installation
 
 1. Navigate to the project directory:
